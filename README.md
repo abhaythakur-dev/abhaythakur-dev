@@ -1,8 +1,8 @@
-## Hey, I'm Abhay 👋
+<h2> Hey I'm Abhay 👋 </h2>
 
-Here are some ideas to get you started:
+### About Me 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently pursuing `Bachelor of Technology` at `HRIT University`
 - 🌱 I’m currently learning `Data Structure and Algorithm`
 - 👯 I’m looking to collaborate on `Beginner-friendly projects and Open source`
 - 🤔 I’m looking for help with `DSA and Frontend Development`
