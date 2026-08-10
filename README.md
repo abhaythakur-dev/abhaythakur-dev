@@ -5,11 +5,11 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently pursuing Bachelor of Technology at HRIT University**
-- 📚 I'm currently learning Data Structures and Algorithms
-- 🤝 I'm looking to collaborate on Beginner-friendly projects and Open source**
-- 💬 Ask me about Java Fundamentals**
-- ⚡ Fun fact: My fav Anime is Demon Slayer** 👹
+* 🎓 I'm currently pursuing <kbd>Bachelor of Technology at HRIT University</kbd>
+* 🧠 I'm currently learning <kbd>Data Structures and Algorithms</kbd>
+* 🤝 I'm looking to collaborate on <kbd>Beginner-friendly projects and Open source</kbd>
+* 💬 Ask me about <kbd>Java Fundamentals</kbd>
+* ⚡ Fun fact: My fav Anime is <kbd>Demon Slayer</kbd> 👺
 
 ---
 
