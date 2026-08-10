@@ -5,11 +5,11 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently pursuing **Bachelor of Technology at HRIT University**
-- 📚 I'm currently learning **Data Structures and Algorithms**
-- 🤝 I'm looking to collaborate on **Beginner-friendly projects and Open source**
-- 💬 Ask me about **Java Fundamentals**
-- ⚡ Fun fact: My fav Anime is **Demon Slayer** 👹
+- 🎓 I'm currently pursuing Bachelor of Technology at HRIT University**
+- 📚 I'm currently learning Data Structures and Algorithms
+- 🤝 I'm looking to collaborate on Beginner-friendly projects and Open source**
+- 💬 Ask me about Java Fundamentals**
+- ⚡ Fun fact: My fav Anime is Demon Slayer** 👹
 
 ---
 
@@ -23,7 +23,6 @@
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
