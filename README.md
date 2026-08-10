@@ -1,11 +1,29 @@
-<h2> Hey I'm Abhay 👋 </h2>
+# Hi, I'm Abhay 👋
 
-### About Me 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhaythakur-dev&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently pursuing `Bachelor of Technology` at `HRIT University`
-- 🌱 I’m currently learning `Data Structure and Algorithm`
-- 👯 I’m looking to collaborate on `Beginner-friendly projects and Open source`
-- 🤔 I’m looking for help with `DSA and Frontend Development`
-- 💬 Ask me about `Java Fundamentals`
-- 📫 How to reach me: `LinkedIn`
-- ⚡ Fun fact: `My fav Anime is Demon Slayer 👺`
+### 👨‍💻 About Me
+- 🎓 I'm currently pursuing **Bachelor of Technology at HRIT University**
+- 📚 I'm currently learning **Data Structures and Algorithms**
+- 🤝 I'm looking to collaborate on **Beginner-friendly projects and Open source**
+- 💬 Ask me about **Java Fundamentals**
+- ⚡ Fun fact: My fav Anime is **Demon Slayer** 👹
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaythakur-dev&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
